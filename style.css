@@ -1,0 +1,16 @@
+body {
+	text-align: center;
+}
+button {
+    margin-top: 40vh;
+    background-color: white;
+    padding: 10px 20px;
+    font-weight: bolder;
+}
+
+button:hover {
+	background-color: grey;
+}
+button:active {
+	background-color: cyan;
+}
